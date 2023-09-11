@@ -8,8 +8,8 @@ Room: R3206, Building #3, National Taipei University of Technology
 
 Lecture Notes:
 
-- [Introduction](https://hackmd.io/@yzuKevinTsai/rkZnO9h02)
-- [Supervised Learning](https://hackmd.io/@yzuKevinTsai/H17gGOhC2)
+- [Introduction](obsidian://open?vault=NTUT-EE320804&file=Notes%2FIntroduction)
+- [Supervised Learning](obsidian://open?vault=NTUT-EE320804&file=Notes%2FSupervised%20Learning)
 
 
 Practice: [Link](https://github.com/KevinTsaiCodes/NTUT-320804/blob/main/Practice/README.md)
