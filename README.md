@@ -8,6 +8,6 @@ Lecture Notes:
 - [Supervised Learning](https://hackmd.io/@yzuKevinTsai/H17gGOhC2)
 
 
-Practice: [Link](https://github.com/KevinTsaiCodes/NTUT-320804/blob/main/Assignments/README.md)
+Practice: [Link](https://github.com/KevinTsaiCodes/NTUT-320804/blob/main/Practice/README.md)
 
 Assignments: [Link](https://github.com/KevinTsaiCodes/NTUT-320804/blob/main/Assignments/README.md)
