@@ -5,6 +5,8 @@ Textbook: [Link](https://www.tenlong.com.tw/products/9780262043793)
 Lecturer: [Prof. Lee-Hter Yao](https://www.ee.ntut.edu.tw/teacher/teacher2.php?tsn=5)
 
 Lecture Notes:
+
+- [Introduction](https://hackmd.io/@yzuKevinTsai/rkZnO9h02)
 - [Supervised Learning](https://hackmd.io/@yzuKevinTsai/H17gGOhC2)
 
 
