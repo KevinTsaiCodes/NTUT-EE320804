@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7633d330dd013527",
+        "id": "880063c8e8bc9f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9f09905f70ec5b",
+            "id": "6a9b2b2300f5561e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Supervised Learning.md"
+              }
+            }
+          },
+          {
+            "id": "c1068a2bf90616a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -138,9 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9f09905f70ec5b",
+  "active": "6a9b2b2300f5561e",
   "lastOpenFiles": [
+    "Notes/Lesson2_LogicFunction.png",
+    "Notes/Lesson2_Hypothesis - 複製.png",
+    "Notes/Lesson2_Hypothesis.png",
     "Notes/Supervised Learning.md",
+    "Notes/Lesson2_Training - 複製.png",
+    "Notes/Lesson2_Training.png",
+    "Untitled.canvas",
+    "Untitled.md",
+    "2023-09-21.md",
+    "Function.md",
     "README.md",
     "Notes/Introduction.md",
     "Notes",
