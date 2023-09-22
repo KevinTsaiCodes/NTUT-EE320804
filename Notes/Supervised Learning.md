@@ -34,7 +34,7 @@ In the prediction of the hypothesis set, sometimes will happen prediction error.
 ![](Lesson2_LogicFunction.png)
 ### *Logic Function*
 
-In *Preceptron Learning Algorithm* (PLA), the output of the PLA is tpycially either 0 (representing False) or 1 (representing *True*). During the learning process, there may be instances of prediction erros, a penalty function, logic function, is used to calculate the error prediction value. Therefore, we use logic function, $E(h|X),$ to calculate it while an error prediction occurs.
+In `Preceptron Learning Algorithm` (PLA), the output of the PLA is tpycially either 0 (representing False) or 1 (representing *True*). During the learning process, there may be instances of prediction erros, a penalty function, logic function, is used to calculate the error prediction value. Therefore, we use logic function, $E(h|X),$ to calculate it while an error prediction occurs.
 #### Equation of the Logic Function
 
 $E(h|X) = \Sigma_{t=1}^{N}\ \mathbb{1}(h(x^{t}) \neq r^{t})$
