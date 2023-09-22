@@ -11,7 +11,7 @@ Time: 15:00 - 18:00, Every Monday
 Lecture Notes:
 
 - [Introduction]()
-- [Supervised Learning]()
+- [Supervised Learning](https://github.com/KevinTsaiCodes/NTUT-EE320804/blob/main/Notes/Supervised%20Learning.md)
 
 
 Practice: [Link](https://github.com/KevinTsaiCodes/NTUT-320804/blob/main/Practice/README.md)

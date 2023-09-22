@@ -1,4 +1,4 @@
-`EE320804 Machine Learning
+`EE320804 Machine Learning`
 
 #### Textbook: [Introduction to Machine Learning](https://www.tenlong.com.tw/products/9780262043793)
 #### Lecturer: [Prof. LeeHter Yao](https://www.ee.ntut.edu.tw/teacher/teacher2.php?tsn=5)
