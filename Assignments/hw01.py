@@ -10,8 +10,9 @@ def get_predictions(prob_class1, prob_class2, prob_class3):
 def make_probability(data_x, data_y, predict_x, predict_y):
     EuclideanThreshold = 1.0
     EuclideanDistance = np.sqrt((data_x - predict_x)**2 + (data_y - predict_y)**2)
-    sigma_numbers_in_threshold = len(EuclideanDistance[EuclideanDistance < EuclideanThreshold])
-    return sigma_numbers_in_threshold / len(data_x)
+    weighted_probability = 1 / (1 + EuclideanDistance)
+    weighted_probability_sum = np.sum(weighted_probability)
+    return weighted_probability_sum / len(data_x)
 
 
 def generate_data():
